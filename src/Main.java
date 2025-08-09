@@ -7,7 +7,7 @@ public class Main {
 
         for (int i = 1; i <= 5; i++) {
         
-            System.out.printf("This is message number %d%n", i);
+            System.out.printf("Hello World", i);
         }
     }
 }
